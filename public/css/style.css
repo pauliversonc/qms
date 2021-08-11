@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@200;300;400@600&display=swap');
+
+
+*{
+    font-family: 'Jost', sans-serif;
+    font-weight: 300;
+}
+
+.login__message{
+    font-weight: 400;
+}
+
+
+.sidebar__div{
+    /* background-color: rgba(32,26,22,.7); */
+    background-color: #201a16;
+
+
+}
+
+.sidebar__links{
+    font-weight: 400;
+
+}
+
+.container__main_content{
+    background-color:#f3f4f3;
+}
+
+
+.dropdown__links{
+    background-color: #201a16;
+
+}
+
+/* Monitoring */
+
+.main__container{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:  80% 1%;
+    background-attachment: fixed;
+    opacity: 0.9;
+}
+
+.date__time{
+    font-weight: 400;
+}
+
+.ticket__card{
+    font-weight: 600 !important;
+}
+
+.card__container{
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
